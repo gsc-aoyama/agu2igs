@@ -16,7 +16,7 @@
         width="416"
         height="225"
         src="https://github.com/gsc-aoyama/agu2igs/blob/master/docs/img/image002.png?raw=true"
-    />
+    /> <br />
     図１　大学院で学ぶ、様々な経路
 </p>
 
