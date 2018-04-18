@@ -1,10 +1,3 @@
-
-<html>
-<head>
-     <title>海外大学院進学の支援｜青山学院大学 地球社会共生学部 </title>
-</head>
-
-<body>
 <p>
     <h1>海外大学院進学の支援</h1>
 </p>
@@ -22,7 +15,7 @@
     <img
         width="416"
         height="225"
-        src="./img/image001.png"
+        src="https://github.com/gsc-aoyama/agu2igs/blob/master/docs/img/image002.png?raw=true"
     />
     図１　大学院で学ぶ、様々な経路
 </p>
@@ -282,5 +275,3 @@ Degrees: Ph.D. (Univ. of Pennsylvania), D. Eng. (Univ. of Tokyo)
 （2017年5月7日現在） Alphabetic order
 
 </p>
-</body>
-</html>
