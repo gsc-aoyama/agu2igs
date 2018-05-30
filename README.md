@@ -180,7 +180,9 @@
 </p>
 <br />
 <p align="center">
-    <h4>海外大学院進学支援室メンバー（Alphabetical order）</h4> 
+    <h4>
+        海外大学院進学支援室メンバー（Alphabetical order）
+</h4> 
 </p>
 <p>
 <h4>Fukushima, Akiko 福島安紀子</h4> 
