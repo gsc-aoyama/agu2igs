@@ -1,8 +1,10 @@
+
 <p align="center">
     <h1>海外大学院進学を考えるために</h1>
+    
 </p>
 <p align="right">
-    GSC海外大学院進学支援室
+    <h3>GSC海外大学院進学支援室<h3>
 </p>
 
 <p>
