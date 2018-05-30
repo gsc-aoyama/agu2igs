@@ -182,7 +182,7 @@
     <h4>海外大学院進学支援室メンバー（Alphabetical order）</h4>
 </p>
 <p>
-<h4>Fukushima, Akiko 福島安紀子</h4> 
+<h4>■ Fukushima, Akiko 福島安紀子</h4> 
 <ul>
 <li>1992-94 The Paul H. Nitze School of Advanced International Studies (SAIS), Johns Hopkins University, Washington DC, USA (MA​, International Relations, International Economy​)</li>
 <li>2002-2003 Visiting Professor, ​International Relations, Graduate School, ​University of British Columbia, Canada</li>
@@ -193,7 +193,7 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 
 <br />
 
-<h4>Hashimoto, Sayaka 橋本彩花</h4>
+<h4>■ Hashimoto, Sayaka 橋本彩花</h4>
 <ul>
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
@@ -203,7 +203,7 @@ Degrees: M. A. (Univ. of London), M. Phil. (UCL).  Ph.D. candidate (UCL)
 
 <br />
 
-<h4>Khezrnejat, Gregory ケズナジャット　グレゴリー</h4>
+<h4>■ Khezrnejat, Gregory ケズナジャット　グレゴリー</h4>
 <ul>
 <li>2002 - 2007 Clemson University (Clemson, SC, USA) College of Arts, Architecture and Humanities, B.A. English; College of Engineering, Computing and Applied Sciences, B.A. Computer Science (dual degree)</li>
 Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Literature
@@ -211,7 +211,7 @@ Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Litera
 
 <br />
 
-<h4>Kuwajima, Kyoko 桑島京子</h4>
+<h4>■ Kuwajima, Kyoko 桑島京子</h4>
 <ul>
 <li>1990-1992 Faculty of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
 Degree: A.M. (with a field of concentration in regional studies - East Asia)
@@ -219,7 +219,7 @@ Degree: A.M. (with a field of concentration in regional studies - East Asia)
 
 <br />
 
-<h4>Masumoto, Kiyoshi 升本潔</h4>
+<h4>■ Masumoto, Kiyoshi 升本潔</h4>
 <ul>
 <li>1993-1994   Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
 <li>1994-1995　Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
@@ -228,7 +228,7 @@ Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 
 <br />
 
-<h4>Okabe, Atsuyuki 岡部篤行</h4> 
+<h4>■ Okabe, Atsuyuki 岡部篤行</h4> 
 <ul>
 <li>1972 Department of City and Regional Planning, School of Environmental Design, University of California Berkeley, Berkeley, CA USA</li>
 <li>1972-1975 Department of Regional Science, School of Arts and Science, University of Pennsylvania, Philadelphia, PA USA</li>
