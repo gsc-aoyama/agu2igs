@@ -220,7 +220,7 @@ Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Litera
 
 <h4>Kuwajima, Kyoko 桑島京子</h4>
 <ul>
-<li>1990-1992 Faculty of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
+<li>1990-1992 Graduate School of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
 Degree: A.M. (with a field of concentration in regional studies - East Asia)
 </ul>
 
