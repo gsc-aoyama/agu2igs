@@ -11,6 +11,8 @@
     　近年、社会のグローバル化にともない、大学院の重要性が増しつつあります。とりわけ地球規模で活動を展開している国際的な機関、会社、団体や、地球的課題の研究を進めている大学、民間研究所などでは、大学院で学んだ人の活躍が大いに期待されています。実際、就職の際には、大学院の学位が要求されることが多くなりました。そこで本学部では、大学院で学ぶことを希望する学生の皆さんを支援するべく「海外大学院進学支援室」を設立し、活動を始めました。このウェブサイトでの情報伝達もその一環です。
 </p>
 
+<br />
+
 <hr>
  
 <p>
@@ -41,6 +43,8 @@
 <p>
     　大学院に合格するためには、入念な準備が必要となります。国によっても入試システムが大きく異なりますから、準備に２年間ぐらいをかけた方がよいでしょう。具体的には、GPA、英語力、基礎学力などで最低条件を課す大学院が多くありますから、日ごろのからの学習が重要となります。また、授業以外の活動も総合的学術達成度として評価の対象となりますから、その対応も必要となります。これについては、次に説明するセミナー「海外大学院留学の準備」で詳細に指導いたします。
 </p>
+
+<br />
 
 <hr>
 
@@ -85,6 +89,8 @@
     <br/>
     　進学先大学がある地域の役所などに確認しましょう。
 </p>
+
+<br />
 
 <hr>
 
@@ -160,6 +166,8 @@
     </a>
 </p>
 
+<br />
+
 <hr>
     
 <p>
@@ -168,7 +176,7 @@
 </p>
 
 <p>
-<h3>Fukushima, Akiko 福島安紀子</h3> 
+<h4>Fukushima, Akiko 福島安紀子</h4> 
 <ul>
 <li>1992-94 The Paul H. Nitze School of Advanced International Studies (SAIS), Johns Hopkins University, Washington DC, USA (MA​, International Relations, International Economy​)</li>
 <li>2002-2003 Visiting Professor, ​International Relations, Graduate School, ​University of British Columbia, Canada</li>
@@ -179,7 +187,7 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 
 <br />
 
-<h3>Hashimoto, Sayaka 橋本彩花</h3>
+<h4>Hashimoto, Sayaka 橋本彩花</h4>
 <ul>
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
@@ -189,7 +197,7 @@ Degrees: M. A. (Univ. of London), M. Phil. (UCL).  Ph.D. candidate (UCL)
 
 <br />
 
-<h3>Khezrnejat, Gregory ケズナジャット　グレゴリー</h3>
+<h4>Khezrnejat, Gregory ケズナジャット　グレゴリー</h4>
 <ul>
 <li>2002 - 2007 Clemson University (Clemson, SC, USA) College of Arts, Architecture and Humanities, B.A. English; College of Engineering, Computing and Applied Sciences, B.A. Computer Science (dual degree)</li>
 Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Literature
@@ -197,7 +205,7 @@ Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Litera
 
 <br />
 
-<h3>Kuwajima, Kyoko 桑島京子</h3>
+<h4>Kuwajima, Kyoko 桑島京子</h4>
 <ul>
 <li>1990-1992 Faculty of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
 Degree: A.M. (with a field of concentration in regional studies - East Asia)
@@ -205,7 +213,7 @@ Degree: A.M. (with a field of concentration in regional studies - East Asia)
 
 <br />
 
-<h3>Masumoto, Kiyoshi 升本潔</h3>
+<h4>Masumoto, Kiyoshi 升本潔</h4>
 <ul>
 <li>1993-1994   Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
 <li>1994-1995　Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
@@ -214,7 +222,7 @@ Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 
 <br />
 
-<h3>Okabe, Atsuyuki 岡部篤行</h3> 
+<h4>Okabe, Atsuyuki 岡部篤行</h4> 
 <ul>
 <li>1972 Department of City and Regional Planning, School of Environmental Design, University of California Berkeley, Berkeley, CA USA</li>
 <li>1972-1975 Department of Regional Science, School of Arts and Science, University of Pennsylvania, Philadelphia, PA USA</li>
