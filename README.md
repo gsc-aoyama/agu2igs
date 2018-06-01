@@ -104,8 +104,7 @@
     <h2>主要な留学情報サイト</h2>
 </p>
 <p>
-    <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>
-    <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
+    <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>    <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
 </p>
 <p>
     <h4>＜米国＞</h4>
