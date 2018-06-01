@@ -104,8 +104,14 @@
     <h2>主要な留学情報サイト</h2>
 </p>
 <p>
-    <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>    <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
+    <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>  
 </p>
+<p>
+    <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
+</p>
+
+<br />
+
 <p>
     <h4>＜米国＞</h4>
 </p>
@@ -125,6 +131,9 @@
         https://americancenterjapan.com/study/
     </a>
 </p>
+
+<br />
+
 <p>
     <h4>＜カナダ＞</h4>
 </p>
@@ -146,6 +155,9 @@
         http://educanada.ca/index.aspx?lang=eng
     </a>
 </p>
+
+<br />
+
 <p>
     <h4>＜英国＞</h4>
 </p>
@@ -157,6 +169,9 @@
         https://www.britishcouncil.jp/studyuk
     </a>
 </p>
+
+<br />
+
 <p>
     <h4>＜オーストラリア＞</h4>
 </p>
