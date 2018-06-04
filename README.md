@@ -190,7 +190,8 @@
 
 <p>
     <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>
-    <br/>
+</p>
+<p>
     <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
 </p>
 
