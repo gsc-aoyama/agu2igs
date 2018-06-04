@@ -58,6 +58,14 @@
     　大学院を含むキャリアパスや、具体的な大学院情報を提供するため、外部の専門家を招いてセミナーを行います。各セミナーの日時等の詳細は、学生ポータルを通じて周知されます。
 </p>
 
+<p align="center">
+    <img
+        width="416"
+        height="225"
+        src="https://github.com/gsc-aoyama/agu2igs/blob/master/docs/img/セミナー表.png?raw=true"
+    /> <br />
+</p>
+
 <br />
 
 <hr>
