@@ -292,7 +292,15 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
 <li>2015-2017 Comparative Education, Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
-Degrees: M. A. (Univ. of London), M. Phil. (UCL).  Ph.D. candidate (UCL)
+Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Institute of Education), Ph.D. candidate (UCL Institute of Education)
+</ul>
+
+<br />
+
+<h4>Ishizuka, Aya 石塚彩</h4>
+<ul>
+<li>2001-2005 Smith College, Northampton, Massachusetts, USA (A.B., East Asian Studies Major)</li>
+Degrees: A.B. (Smith College), M.Sc. in Health Management (Keio University)
 </ul>
 
 <br />
