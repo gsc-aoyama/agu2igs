@@ -178,29 +178,21 @@
     <h2>主要な留学情報サイト</h2>
 </p>
 <p>
-    <h4>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</h4>
-</p>
-<p>
+    <b>＜日本学生支援機構（JASSO）＞ 海外留学支援サイト</b><br />
     <a href="http://ryugaku.jasso.go.jp/">http://ryugaku.jasso.go.jp/</a>
 </p>
 
 <br />
 
 <p>
-    <h4>＜米国＞</h4>
-</p>
-<p>
-    在日米国大使館・領事館「米国留学」
-</p>
-<p>
+    <b>＜米国＞</b><br />
+    在日米国大使館・領事館「米国留学」<br />
     <a href="https://jp.usembassy.gov/ja/education-culture-ja/study-usa-ja/">
         https://jp.usembassy.gov/ja/education-culture-ja/study-usa-ja/
     </a>
 </p>
 <p>
-    アメリカ留学センター「アメリカ留学情報」
-</p>
-<p>
+    アメリカ留学センター「アメリカ留学情報」<br />
     <a href="https://americancenterjapan.com/study/">
         https://americancenterjapan.com/study/
     </a>
@@ -209,22 +201,14 @@
 <br />
 
 <p>
-    <h4>＜カナダ＞</h4>
-</p>
-<p>
-    カナダ政府「カナダ留学」
-</p>
-<p>
-    <a
-        href="http://www.canadainternational.gc.ca/japan-japon/study-etudie/index.aspx?lang=jpn&amp;menu_id=34"
-    >
+    <b>＜カナダ＞</b><br />
+    カナダ政府「カナダ留学」<br />
+    <a href="http://www.canadainternational.gc.ca/japan-japon/study-etudie/index.aspx?lang=jpn&amp;menu_id=34">
         http://www.canadainternational.gc.ca/japan-japon/study-etudie/index.aspx?lang=jpn&amp;menu_id=34
     </a>
 </p>
 <p>
-    EduCanada（English）
-</p>
-<p>
+    EduCanada（English）<br />
     <a href="http://educanada.ca/index.aspx?lang=eng">
         http://educanada.ca/index.aspx?lang=eng
     </a>
@@ -233,12 +217,8 @@
 <br />
 
 <p>
-    <h4>＜英国＞</h4>
-</p>
-<p>
-    ブリティッシュカウンシル「英国留学」
-</p>
-<p>
+    <b>＜英国＞</b><br />
+    ブリティッシュカウンシル「英国留学」<br />
     <a href="https://www.britishcouncil.jp/studyuk">
         https://www.britishcouncil.jp/studyuk
     </a>
@@ -247,12 +227,8 @@
 <br />
 
 <p>
-    <h4>＜オーストラリア＞</h4>
-</p>
-<p>
-    オーストラリア政府公式留学情報ウェブサイト
-</p>
-<p>
+    <b>＜オーストラリア＞</b><br />
+    オーストラリア政府公式留学情報ウェブサイト<br />
     <a href="http://www.studyinaustralia.gov.au/japan">
         http://www.studyinaustralia.gov.au/japan
     </a>
