@@ -234,8 +234,6 @@
 <hr>
    
 <h2>海外大学院進学支援室メンバー（Alphabetical order）</h2>
-
-<br />
 <p>
 <h4>Fukushima, Akiko 福島安紀子</h4> 
 <ul>
