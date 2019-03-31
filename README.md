@@ -60,7 +60,7 @@
 <p align="center">
     <img
         width="800"
-        src="https://github.com/gsc-aoyama/agu2igs/blob/master/docs/img/セミナー表2.png?raw=true"
+        src="https://github.com/gsc-aoyama/agu2igs/blob/master/docs/img/セミナー表3.png?raw=true"
      /> <br />
     図2　GSC海外大学院留学支援セミナー・ワークショップ
 </p>
