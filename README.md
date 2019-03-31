@@ -256,22 +256,6 @@ Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Instit
 
 <br />
 
-<h4>Ishizuka, Aya 石塚彩</h4>
-<ul>
-<li>2001-2005 Smith College, Northampton, Massachusetts, USA (A.B., East Asian Studies Major)</li>
-Degrees: A.B. (Smith College), M.Sc. in Health Management (Keio University)
-</ul>
-
-<br />
-
-<h4>Khezrnejat, Gregory ケズナジャット　グレゴリー</h4>
-<ul>
-<li>2002 - 2007 Clemson University (Clemson, SC, USA) College of Arts, Architecture and Humanities, B.A. English; College of Engineering, Computing and Applied Sciences, B.A. Computer Science (dual degree)</li>
-Ph.D. candidate, Doshisha University Graduate School of Letters, Japanese Literature
-</ul>
-
-<br />
-
 <h4>Kuwajima, Kyoko 桑島京子</h4>
 <ul>
 <li>1990-1992 Graduate School of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
