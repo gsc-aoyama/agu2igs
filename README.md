@@ -286,6 +286,7 @@
 <li>2002-2003 Visiting Professor, ​International Relations, Graduate School, ​University of British Columbia, Canada</li>
 <li>2015-2016 Visiting Scholar, Center for International Security Studies(CSIS), Washington DC, USA</li>
 <li>2017- Non-resident Fellow, ​International Security, ​The Lowy Institute, Sydney, Australia</li>
+<br />
 Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Univ.)
 </ul>
 
@@ -296,6 +297,7 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
 <li>2015-2018 Comparative Education, Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
+<br />
 Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Institute of Education), Ph.D. candidate (UCL Institute of Education)
 </ul>
 
@@ -304,6 +306,7 @@ Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Instit
 <h4>Kuwajima, Kyoko 桑島京子</h4>
 <ul>
 <li>1990-1992 Graduate School of Arts and Sciences, Harvard University, Cambridge, MA USA</li>
+<br />
 Degree: A.M. (with a field of concentration in regional studies - East Asia)
 </ul>
 
@@ -313,6 +316,7 @@ Degree: A.M. (with a field of concentration in regional studies - East Asia)
 <ul>
 <li>1993-1994   Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
 <li>1994-1995　Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
+<br />
 Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 </ul>
 
@@ -323,6 +327,7 @@ Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 <li>1988-1990 Department of Geography, University of Georgia, Athens, GA USA (Fulbright)</li>
 <li>1993-1994 Visiting Scholar, same as above</li>
 <li>2001-2005 Chief of Cartographic Section, Department of Peacekeeping Operations, United Nations, New York, NY USA</li>  
+<br />
 Degree: PhD (Univ. of Georgia)
 </ul>
 
@@ -333,6 +338,7 @@ Degree: PhD (Univ. of Georgia)
 <li>1996-1997 Exchange Program of Aoyama Gakuin University, Portland State University, Oregon, USA (Fulbright)</li>
 <li>2000-2002 Center of Economic Studies, El Colegio de México, Mexico City, Mexico</li>
 <li>2007 September Visiting Professor, Faculty of Economics and Enterprises Sciences, Rafael Landivar University, Guatemala City, Guatemala</li>  
+<br />
 Degrees: Master in International Economics (Aoyama Gakuin University), Master in Economics (El Colegio de México), Doctor in Economics (Kobe University)
 </ul>
 
@@ -345,6 +351,7 @@ Degrees: Master in International Economics (Aoyama Gakuin University), Master in
 <li>1972 Department of City and Regional Planning, School of Environmental Design, University of California Berkeley, Berkeley, CA USA</li>
 <li>1972-1975 Department of Regional Science, School of Arts and Science, University of Pennsylvania, Philadelphia, PA USA</li>
 <li>1987-1988 Visiting Scholar, the same as above</li>
+<br />
 Degrees: Ph.D. (Univ. of Pennsylvania), D. Eng. (Univ. of Tokyo)
 </ul> 
 
