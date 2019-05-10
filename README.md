@@ -314,10 +314,10 @@ Degree: A.M. (with a field of concentration in regional studies - East Asia)
 
 <h4>Masumoto, Kiyoshi 升本潔</h4>
 <ul>
-<li>1993-1994　Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
-<li>1994-1995　Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
+<li>1993-1994 Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
+<li>1994-1995 Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
 <br />
-Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
+Degrees: M.Sc. (Univ. of Aberdeen), M.Phil. (Univ. of Cambridge)
 </ul>
 
 <br />
