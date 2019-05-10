@@ -322,7 +322,7 @@ Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 
 <br />
 
-<h4>Murakami, Hiroshi　村上広史</h4>
+<h4>Murakami, Hiroshi 村上広史</h4>
 <ul>
 <li>1988-1990 Department of Geography, University of Georgia, Athens, GA USA (Fulbright)</li>
 <li>1993-1994 Visiting Scholar, same as above</li>
