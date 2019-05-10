@@ -344,7 +344,7 @@ Degrees: Master in International Economics (Aoyama Gakuin University), Master in
 
 <br />
 
-<h2>海外大学院進学支援室アドバイザー（Alphabetical order）</h2>
+<h2>海外大学院進学支援室アドバイザー</h2>
 
 <h4>Okabe, Atsuyuki 岡部篤行</h4> 
 <ul>
