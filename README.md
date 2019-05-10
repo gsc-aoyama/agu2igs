@@ -328,7 +328,7 @@ Degrees: M.Sc. (Univ. of Aberdeen), M.Phil. (Univ. of Cambridge)
 <li>1993-1994 Visiting Scholar, same as above</li>
 <li>2001-2005 Chief of Cartographic Section, Department of Peacekeeping Operations, United Nations, New York, NY USA</li>  
 <br />
-Degree: PhD (Univ. of Georgia)
+Degree: Ph.D. (Univ. of Georgia)
 </ul>
 
 <br />
