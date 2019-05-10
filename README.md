@@ -314,7 +314,7 @@ Degree: A.M. (with a field of concentration in regional studies - East Asia)
 
 <h4>Masumoto, Kiyoshi 升本潔</h4>
 <ul>
-<li>1993-1994   Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
+<li>1993-1994　Rural and Regional Resources Planning, Department of Geography, University of Aberdeen, Aberdeen, UK</li>
 <li>1994-1995　Environment and Development, Department of Geography, University of Cambridge, Cambridge, UK</li>
 <br />
 Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
@@ -337,7 +337,7 @@ Degree: PhD (Univ. of Georgia)
 <ul>
 <li>1996-1997 Exchange Program of Aoyama Gakuin University, Portland State University, Oregon, USA (Fulbright)</li>
 <li>2000-2002 Center of Economic Studies, El Colegio de México, Mexico City, Mexico</li>
-<li>2007 September Visiting Professor, Faculty of Economics and Enterprises Sciences, Rafael Landivar University, Guatemala City, Guatemala</li>  
+<li>2007 (September) Visiting Professor, Faculty of Economics and Enterprises Sciences, Rafael Landivar University, Guatemala City, Guatemala</li>  
 <br />
 Degrees: Master in International Economics (Aoyama Gakuin University), Master in Economics (El Colegio de México), Doctor in Economics (Kobe University)
 </ul>
