@@ -295,7 +295,7 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 <ul>
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
-<li>2015-2017 Comparative Education, Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
+<li>2015-2018 Comparative Education, Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
 Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Institute of Education), Ph.D. candidate (UCL Institute of Education)
 </ul>
 
@@ -317,6 +317,28 @@ Degrees: M. Sc. (Univ. of Aberdeen), M. Phil. (Univ. of Cambridge)
 </ul>
 
 <br />
+
+<h4>Murakami, Hiroshi　村上広史</h4>
+<ul>
+<li>1988-1990 Department of Geography, University of Georgia, Athens, GA USA (Fulbright)</li>
+<li>1993-1994 Visiting Scholar, same as above</li>
+<li>2001-2005 Chief of Cartographic Section, Department of Peacekeeping Operations, United Nations, New York, NY USA</li>  
+Degree: PhD (Univ. of Georgia)
+</ul>
+
+<br />
+
+<h4>Sakikawa, Kaoko 咲川可央子</h4>
+<ul>
+<li>1996-1997 Exchange Program of Aoyama Gakuin University, Portland State University, Oregon, USA (Fulbright)</li>
+<li>2000-2002 Center of Economic Studies, El Colegio de México, Mexico City, Mexico</li>
+<li>2007 September Visiting Professor, Faculty of Economics and Enterprises Sciences, Rafael Landivar University, Guatemala City, Guatemala</li>  
+Degrees: Master in International Economics (Aoyama Gakuin University), Master in Economics (El Colegio de México), Doctor in Economics (Kobe University)
+</ul>
+
+<br />
+
+<h2>海外大学院進学支援室アドバイザー（Alphabetical order）</h2>
 
 <h4>Okabe, Atsuyuki 岡部篤行</h4> 
 <ul>
