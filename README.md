@@ -296,9 +296,9 @@ Degrees: M. A. (Johns Hopkins), Doctor in International Public Policy (Osaka Uni
 <ul>
 <li>2010-2011Comparative Education, Department of Education, Practice and Society, Institute of Education, University of London, London, UK</li>
 <li>2014-2015 Comparative Education (M.Phil.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
-<li>2015-2018 Comparative Education, Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
+<li>2015-2018 Comparative Education (Ph.D.), Department of Education, Practice and Society, UCL Institute of Education, University of London, London, UK</li>
 <br />
-Degrees: M. A. (Institute of Education,　Univ. of London), M. Phil. (UCL Institute of Education), Ph.D. candidate (UCL Institute of Education)
+Degrees: M. A. (Institute of Education, Univ. of London), M. Phil. (UCL Institute of Education), Ph.D. candidate (UCL Institute of Education)
 </ul>
 
 <br />
